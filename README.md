@@ -1,5 +1,8 @@
 # em-tracker# employee-tracker
 
+https://user-images.githubusercontent.com/81537925/124402189-a4d19500-dcfc-11eb-8a1c-ccce0e69eb42.mp4
+
+
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
